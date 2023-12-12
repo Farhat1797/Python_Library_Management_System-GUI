@@ -7,4 +7,4 @@
 ![Python_gui](/public/3.png)
 
 ![Python_gui](/public/4.png)
-![Python_gui](/public/5.png)
+![Python_gui](/public/5-serach.png)
